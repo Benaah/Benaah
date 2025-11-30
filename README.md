@@ -12,12 +12,7 @@
   <a href="https://github.com/Benaah"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=Benaah&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Benaah" /></picture></a>
   <a href="https://github.com/Benaah"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Benaah&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
 </p>
-
-
 <br>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Benaah&theme=dark)](https://git.io/streak-stats)
 
 
 
@@ -120,7 +115,6 @@
     <a href="https://github.com/Benaah/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Benaah's streak" src="https://streak-stats.demolab.com/?user=Benaah&theme=monokai-metallian&hide_border=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
