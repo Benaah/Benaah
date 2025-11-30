@@ -5,9 +5,6 @@
 <h4 align="center">Engineering Student at Egerton University</h4>
 <h4 align="center">AI & Machine Learning Enthusiast</h4>
 
-<p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=Benaah)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
 
 <!-- ![Benaah's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=Benaah&theme=dark&show_icons=true) -->
 
