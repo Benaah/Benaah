@@ -7,18 +7,26 @@
 <h4 align="center">AI & Machine Learning Enthusiast</h4>
 
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=Benaah)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Benaah&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Benaah"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=Benaah&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Benaah" /></picture></a>
-  <a href="https://github.com/Benaah"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Benaah&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+  <a href="https://github.com/Benaah">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Benaah&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Benaah's Stats" />
+  </a>
+  <a href="https://github.com/Benaah">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benaah&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Benaah's Top Languages" />
+  </a>
 </p>
 
 <br>
 
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Benaah&theme=dark)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Benaah&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
@@ -47,8 +55,6 @@
   <a href="https://x.com/@gari_ni_Toyota_"><img width="32px" alt="X" src="https://skillicons.dev/icons?i=twitter"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://youtube.com/@Carnversologist"><img width="32px" alt="YouTube" src="https://skillicons.dev/icons?i=youtube"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <!-- TikTok icon fallback since skillicons might not have it, using a styled badge or similar if needed, but for now using a placeholder or omitting if no good icon found. I'll use a generic link or the shield if strictly needed, but to match the style I'll stick to the image based ones. -->
 </p>
 
 <br/>
@@ -180,22 +186,28 @@
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
-  <p>
+  <p align="center">
     <a href="https://github.com/Benaah/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Benaah's streak" src="https://streak-stats.demolab.com/?user=Benaah&theme=dark&hide_border=true"/>
     </a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Benaah's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Benaah&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Benaah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benaah&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Benaah's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Benaah&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Benaah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benaah&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  </p>
   <br/>
 
   <h3>⚡ Recent GitHub Activity</h3>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Benaah's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Benaah&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <p align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Benaah's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Benaah&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  </p>
 
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
+  <h3>🔝 Top Contributed Repo</h3>
+  <p align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Benaah&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  </p>
 
 </details>
 
