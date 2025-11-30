@@ -64,8 +64,8 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Benaah?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Benaah?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Benaah?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Benaah&icon=0&color=0" alt="Visit Count" />
+  <a href="https://komarev.com/ghpvc/?username=Benaah&style=flat-square&color=blue">
+    <img src="https://komarev.com/ghpvc/?username=Benaah&style=flat-square&color=blue" alt="Visitor Count" />
   </a>
 </p>
 
@@ -203,6 +203,9 @@
   <p align="center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Benaah's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Benaah&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   </p>
+  
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
 
   <h3>🔝 Top Contributed Repo</h3>
   <p align="center">
@@ -214,8 +217,10 @@
 <br/>
 
 <p align="center">
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Benaah&icon=0&color=0" alt="Visitor's Count" /></a>
+  <img src="https://raw.githubusercontent.com/Benaah/Benaah/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
+
+<br/>
 
 ### ✍️ Random Dev Quote
 <div align="center">
