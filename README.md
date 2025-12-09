@@ -57,14 +57,14 @@ I'm an engineer passionate about **Software and Tech**, currently studying at **
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Benaah&theme=tokyonight)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Benaah&theme=tokyonight" width="32.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Benaah&theme=tokyonight&utcOffset=3" width="32.5%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Benaah&theme=tokyonight" width="32.5%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Benaah&theme=tokyonight" width="32.5%"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Benaah&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Benaah&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
