@@ -54,14 +54,17 @@ I'm an engineer passionate about **Software and Tech**, currently studying at **
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benaah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benaah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Benaah&theme=tokyonight)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Benaah&theme=tokyonight" width="32.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Benaah&theme=tokyonight" width="32.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Benaah&theme=tokyonight" width="32.5%"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Benaah&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Benaah&theme=tokyonight&hide_border=true)
 
 </div>
 
